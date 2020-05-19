@@ -30,4 +30,4 @@
 14.MEDV - Median value of owner-occupied homes in $1000's'''
 
 
-### Here I have used Multiple linear Regression to predict the house pric
+### Here I have used Multiple linear Regression to predict the house prices
